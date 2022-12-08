@@ -12,11 +12,11 @@ Being a frontend developer is a great opportunity in my life.
 Every day I go to my goal and I hope together with you we will achieve our results! Best wishes!
 
 ## Skills
-- HTML
--	CSS
--	JavaScript (Basic)
-- Git/GitHub
--	Windows OS
+-   HTML
+-   CSS
+-   JavaScript (Basic)
+-   Git/GitHub
+-   Windows OS
 
 ## Code Example
 ```
@@ -26,8 +26,8 @@ function multiply(a, b) {
 ```
 
 ## Education and courses
--	HTML базовый курс на Code Basics
--	CSS базовый курс на Code Basics
+-   HTML базовый курс на Code Basics
+-   CSS базовый курс на Code Basics
 -   Basics of site layout (Netology)
 -	JS базовый курс на Code Basics
 
