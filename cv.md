@@ -32,5 +32,5 @@ function multiply(a, b) {
 -	JS базовый курс на Code Basics
 
 ## Languages
--	English - A2
+-	English - A1
 -	Russian - native speaker
