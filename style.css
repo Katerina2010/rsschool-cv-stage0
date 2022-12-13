@@ -1,0 +1,21 @@
+* 
+{
+  margin: 1,5;
+  padding: 1,5;
+}
+
+header {
+  border-right: 0px;
+  float: right;
+}
+.avatar {
+  border-radius: 70%;
+  border-color: aqua;
+  
+}
+aside {
+  background: #f0f0f0;
+  padding: 10px;
+  width: 200px;
+  float: right;
+ }
